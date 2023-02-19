@@ -7,3 +7,10 @@
 2. stopword.txt，最初来源是GitHub上的一个[停用词表](https://github.com/goto456/stopwords)中的百度停用词表。之后我们根据自身的评论中的特征加入了一些明星的名字以及一些我们不希望出现在最后分词结果中的词语
 3. userdict.txt，是在jieba分词库中根据情况自己添加的词表。
 4. word2vec.py，主要是大创期间分词和情感值计算，以及归一化游戏化元素极性值的py文件。其中引用到的数据文件会在之后研究结束后上传，并且会根据笔者的学习逐步完善。
+
+
+# 引用
+
+如果您对我们的研究感兴趣，请参考下面这篇文献。
+
+[Impact of gamification elements on user satisfaction in health and fitness applications: A comprehensive approach based on the Kano model](https://doi.org/10.1016/j.chb.2021.107106)
